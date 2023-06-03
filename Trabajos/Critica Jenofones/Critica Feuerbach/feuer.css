@@ -142,7 +142,10 @@
     }
 }
 
-
+.enlace-jeno {
+    list-style: none;
+    color: rgb(121, 121, 128);
+}
 
 
 

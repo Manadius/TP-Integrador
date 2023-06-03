@@ -15,12 +15,13 @@
 .ola {
     width: 100%;
     position: relative;
+    top: 10px;
 }
 
 .ola-abajo {
     transform: scaleY(-1);
     position: relative;
-    top: -1px;
+    top: -10px;
 }
 
 
